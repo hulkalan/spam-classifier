@@ -1,0 +1,18 @@
+[33mcommit 866937c9d981eeb1ab5e0fa59848e134f7618dc5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 1c75bcc e6e4409
+Author: hulkalan <alanmathewthekkel@gmai.com>
+Date:   Fri Jun 20 09:46:12 2025 +0530
+
+    Removed large files and added .gitignore
+
+[33mcommit e6e440974604bbac38b22c931554e5d71671bd0c[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: ALAN MATHEW <36366113+hulkalan@users.noreply.github.com>
+Date:   Fri Jun 20 09:34:03 2025 +0530
+
+    Initial commit
+
+[33mcommit 1c75bcc46a8fd47d063fa50df6197432d07260b6[m
+Author: hulkalan <alanmathewthekkel@gmai.com>
+Date:   Fri Jun 20 09:32:32 2025 +0530
+
+    Initial commit: Spam Classifier using Streamlit
